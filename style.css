@@ -1,0 +1,22 @@
+
+ .flag {
+            width: 450px;
+            height: 300px;
+            display: flex;
+            border: 2px solid black;
+}
+
+ .green {
+            background-color: #169B62;
+            width: 33.33%;
+ }
+
+ .white {
+            background-color: #FFFFFF;
+            width: 33.33%;
+ }
+
+.orange {
+            background-color: #FF883E;
+            width: 33.33%;
+}
